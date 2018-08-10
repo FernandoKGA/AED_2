@@ -1,0 +1,18 @@
+Instruções para visualização com o uso de Graphviz
+
+1) Instalação:
+- Instale o Graphviz https://www.graphviz.org/download/
+- Adicione a pasta bin do Graphviz as varávies de sistema (PATH)
+
+2) Inclusão no código:
+- Caso esteja implementando grafo em matriz inclua visualizar_grafos_matriz.h no seu programa
+- Caso esteja implementando grafo em matriz inclua visualizar_grafos_lista.h no seu programa
+		
+		#include "visualizar_grafos_matriz.h"
+- A inclusão desse header dispensa a inclusão de "grafo_listaadj.h" ou "grafo_matrizadj.h", mas é necessário tê-los em seu diretório
+
+3) Geração de imagens:
+- Em seu programa passe o ponteiro do grafo (TipoGrafo * ) para a função escreveArquivGraphviz(TipoGrafo* g)
+- Um arquivo graph.gv será criado em seu diretório
+- rode a linha "dot -Tpng graph.gv -o graph.png" no prompt
+- Um arquivo graph.png será gerado contendo a imagem

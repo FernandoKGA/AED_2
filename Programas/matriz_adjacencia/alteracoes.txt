@@ -1,0 +1,4 @@
+Colocar o método de validação existente no .c para facilitar o código em ambos matriz e lista.
+Método que usa uma verificação do vértice DESTINO dado um TipoApontador tanto para matriz quanto para lista.
+
+
