@@ -1,0 +1,17 @@
+O EP1 se trata do algoritmo de Dijkstra.
+
+Caminhos de Peso Mínimo
+
+O EP1 (especificação ainda não pronta) envolverá vocês
+implementarem o algoritmo de Dijkstra para encontrarem o caminho
+mais curto entre uma dada origem e todos os demais vértices.
+
+Esse algoritmo (de Dijkstra, que veremos na próxima aula) deverá
+usar as operações sobre os grafos, de forma que INDEPENDA DA
+IMPLEMENTAÇÃO por MATRIZ e LISTA de adjacência (por isso deixem
+ambas implementações funcionando perfeitamente!!!)
+
+O algoritmo de Dijkstra também deve usar uma estrutura de dados
+para fila de prioridades chamada Heap Binário (que deve ser um
+vetor de struct’s de um vértice (int) e um peso de aresta (TipoPeso)
+que será a chave desse elemento (vértice) no Heap.

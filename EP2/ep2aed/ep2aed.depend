@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1530289233 source:c:\users\ferna\trabalhos_universidade\aed_2\ep2\d-fernandokarchiloffgouveiadeamorim.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1530289233 source:c:\users\ferna\trabalhos_universidade\aed_2\ep2\ep2aed\d-fernandokarchiloffgouveiadeamorim.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+

@@ -1,0 +1,85 @@
+i 21
+p
+i 33
+p
+i 18
+p
+i 55
+p
+i 28
+p
+i 87
+p
+i 86
+p
+i 51
+p
+i 46
+p
+i 26
+p
+i 15
+p
+i 65
+p
+i 36
+p
+i 7
+p
+i 2
+p
+i 79
+p
+i 40
+p
+i 78
+p
+i 50
+p
+i 49
+p
+i 69
+p
+i 39
+p
+i 22
+p
+i 58
+p
+i 16
+p
+i 48
+p
+i 25
+p
+i 60
+p
+i 56
+p
+i 13
+p
+i 6
+p
+i 4
+p
+r 40
+p
+r 39
+p
+r 36
+p
+r 33
+p
+r 28
+p
+r 48
+p
+r 46
+p
+r 49
+p
+r 50
+p
+r 51
+p 
+f
